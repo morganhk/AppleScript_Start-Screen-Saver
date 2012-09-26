@@ -1,0 +1,6 @@
+Public Domain
+Launches the Screensaver Application on Mac OS 10.1 -> 10.8
+
+Use case:
+I had the need for this script when I realised that closing the remote ression (VNC) did not automatically kick-in the screensaver.
+Now I just click this icon to launch screensaver before logging out from remote session.
